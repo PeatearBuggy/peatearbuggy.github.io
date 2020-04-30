@@ -1,0 +1,17 @@
+title: 'PeatearBuggy'
+description: "My blog"
+baseurl: "/"
+url: "https://peatearbuggy.tech"
+
+header_pages:
+  - index.md
+  - about.md
+  - contact.md
+
+style: dark
+
+footer: '<a href="/pub.asc">101D9B67FC033A3F3D6E7E55E1135D5B7442F103</a>'
+
+# Build settings
+markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-console
